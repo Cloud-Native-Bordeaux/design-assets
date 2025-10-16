@@ -9,10 +9,10 @@ Il s’inspire du modèle [CNCF Artwork Repository](https://github.com/cncf/artw
 
 | Version | Aperçu | Fichier |
 |----------|---------|---------|
-| Logo principal (fond clair) | ![Logo principal](./logos/logo-bordeaux-cncf-primary.png) | [`logo-bordeaux-cncf-primary.png`](./logos/logo-bordeaux-cncf-primary.png) |
-| Logo principal (fond transparent) | ![Logo transparent](./logos/logo-bordeaux-cncf-transparent.png) | [`logo-bordeaux-cncf-transparent.png`](./logos/logo-bordeaux-cncf-transparent.png) |
-| Pictogramme seul (fond clair) | ![Pictogramme clair](./logos/logo-bordeaux-cncf-icon-light.png) | [`logo-bordeaux-cncf-icon-light.png`](./logos/logo-bordeaux-cncf-icon-light.png) |
-| Pictogramme seul (fond transparent) | ![Pictogramme transparent](./logos/logo-bordeaux-cncf-icon.png) | [`logo-bordeaux-cncf-icon.png`](./logos/logo-bordeaux-cncf-icon.png) |
+| Pictogramme seul (fond clair) | ![Pictogramme clair](./logos/logo-bordeaux-cncf-icon-black.png) | [`logo-bordeaux-cncf-icon-black.png`](./logos/logo-bordeaux-cncf-icon-black.png) |
+| Pictogramme seul (fond transparent) | ![Pictogramme transparent](./logos/logo-bordeaux-cncf-icon-black-transparent.png) | [`logo-bordeaux-cncf-icon-black-transparent.png`](./logos/logo-bordeaux-cncf-icon-black-transparent.png) |
+| Logo principal (fond clair) | ![Logo principal](./logos/logo-bordeaux-cncf-black-primary.png) | [`logo-bordeaux-cncf-black-primary.png`](./logos/logo-bordeaux-cncf-black-primary.png) |
+| Logo principal (fond transparent) | ![Logo transparent](./logos/logo-bordeaux-cncf-black-transparent.png) | [`logo-bordeaux-cncf-black-transparent.png`](./logos/logo-bordeaux-cncf-black-transparent.png) |
 
 ---
 
