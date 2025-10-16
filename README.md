@@ -33,7 +33,7 @@ Référence : [CNCF Brand Guidelines → Colors & Usage](https://www.cncf.io/bra
 ## 📫 Contact & communauté
 
 Ce dépôt est maintenu par les organisateurs du **Cloud Native Community Group – Bordeaux**.  
-👉 Retrouvez-nous sur [Meetup.com](https://www.meetup.com/fr-FR/pro/cloud-native/) ou sur [LinkedIn](https://www.linkedin.com/company/cloud-native-computing-foundation/).
+👉 Retrouvez-nous sur [CNCF Community](https://community.cncf.io/cloud-native-bordeaux/),  [Meetup.com](https://www.meetup.com/cloud-native-computing-bordeaux/) ou sur [LinkedIn](https://www.linkedin.com/company/105540955/).
 
 ---
 
